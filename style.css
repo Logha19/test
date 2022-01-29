@@ -1,0 +1,54 @@
+body 
+{
+    background-color: tan;
+    color: #ffffff;
+    font-family: Arial;
+}
+
+h1
+{
+    color: green;
+    font-family: Times New Roman;
+    display: block;
+}
+
+
+/* #result
+{
+    display: none;
+} */
+
+#compute
+{
+    margin-bottom: 10px;
+    background-color: white;
+    display: block;
+    color: black;
+    height: 30px;
+    width: 95px;
+}
+#principal{
+    height: 25px;
+    width: 190px;
+}
+
+#years{
+    height: 25px;
+    width: 190px;
+}
+
+#footer
+{
+    margin-top: 10px;
+}
+
+
+.text
+{
+   color: black;
+}
+
+.highlight
+{
+    background-color: #ffff00;
+}
